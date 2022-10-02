@@ -1,0 +1,15 @@
+pandas
+scikit-learn
+joblib
+
+numpy
+imblearn
+matplotlib
+seaborn
+lazypredict
+xgboost
+streamlit
+
+
+emoji
+
