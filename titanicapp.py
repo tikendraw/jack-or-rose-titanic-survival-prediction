@@ -10,8 +10,8 @@ from emoji import emojize
 st.title('Would you have survived TITANIC ?')
 
 
-dataset_url = None
-notebook_url = None
+dataset_url = 'https://www.kaggle.com/competitions/titanic/data'
+notebook_url = 'https://github.com/tikendraw/Would_you_have_survived_TITANIC/blob/main/titanic.ipynb'
 #link buttons
 col11, col21, col31 = st.columns([1,1,1])
 
